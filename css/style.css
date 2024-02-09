@@ -1,0 +1,6 @@
+.grid-container {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+}
